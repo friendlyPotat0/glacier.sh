@@ -1,0 +1,17 @@
+
+ ██████╗ ██╗      █████╗  ██████╗██╗███████╗██████╗ 
+██╔════╝ ██║     ██╔══██╗██╔════╝██║██╔════╝██╔══██╗
+██║  ███╗██║     ███████║██║     ██║█████╗  ██████╔╝
+██║   ██║██║     ██╔══██║██║     ██║██╔══╝  ██╔══██╗
+╚██████╔╝███████╗██║  ██║╚██████╗██║███████╗██║  ██║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝╚══════╝╚═╝  ╚═╝
+
+SYNOPSYS
+Backups made easy!
+
+OPTIONS
+    -no flags: Displays back up user interface
+    -h: Prints documentation
+    -r: Lets the user run an integrity check on a specific backup    
+    -d: Shows description of a specific backup
+
